@@ -1,0 +1,7 @@
+[submodule "themes/hugo-refresh"]
+	path = themes/hugo-refresh
+	url = https://github.com/PippoRJ/hugo-refresh.git
+[submodule "public"]
+	path = public
+	url = git@github.com:tm8r/tm8r.github.io.git
+	branch = master
